@@ -30,3 +30,15 @@ C:\myntraReflicabackend\MyntraBacked\obj\Debug\net8.0\refint\MyntraBacked.dll
 C:\myntraReflicabackend\MyntraBacked\obj\Debug\net8.0\MyntraBacked.pdb
 C:\myntraReflicabackend\MyntraBacked\obj\Debug\net8.0\MyntraBacked.genruntimeconfig.cache
 C:\myntraReflicabackend\MyntraBacked\obj\Debug\net8.0\ref\MyntraBacked.dll
+C:\myntraReflicabackend\MyntraBacked\bin\Debug\net8.0\AutoMapper.dll
+C:\myntraReflicabackend\MyntraBacked\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\myntraReflicabackend\MyntraBacked\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\myntraReflicabackend\MyntraBacked\bin\Debug\net8.0\Microsoft.AspNetCore.DataProtection.dll
+C:\myntraReflicabackend\MyntraBacked\bin\Debug\net8.0\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+C:\myntraReflicabackend\MyntraBacked\bin\Debug\net8.0\Microsoft.Extensions.Caching.StackExchangeRedis.dll
+C:\myntraReflicabackend\MyntraBacked\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\myntraReflicabackend\MyntraBacked\bin\Debug\net8.0\Pipelines.Sockets.Unofficial.dll
+C:\myntraReflicabackend\MyntraBacked\bin\Debug\net8.0\StackExchange.Redis.dll
+C:\myntraReflicabackend\MyntraBacked\bin\Debug\net8.0\OtpVerification.dll
+C:\myntraReflicabackend\MyntraBacked\bin\Debug\net8.0\OtpVerification.pdb
+C:\myntraReflicabackend\MyntraBacked\obj\Debug\net8.0\MyntraBacked.sourcelink.json

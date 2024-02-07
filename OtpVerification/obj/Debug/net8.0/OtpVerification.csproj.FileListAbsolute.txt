@@ -1,0 +1,13 @@
+C:\myntraReflicabackend\OtpVerification\obj\Debug\net8.0\OtpVerification.csproj.AssemblyReference.cache
+C:\myntraReflicabackend\OtpVerification\obj\Debug\net8.0\OtpVerification.GeneratedMSBuildEditorConfig.editorconfig
+C:\myntraReflicabackend\OtpVerification\obj\Debug\net8.0\OtpVerification.AssemblyInfoInputs.cache
+C:\myntraReflicabackend\OtpVerification\obj\Debug\net8.0\OtpVerification.AssemblyInfo.cs
+C:\myntraReflicabackend\OtpVerification\obj\Debug\net8.0\OtpVerification.csproj.CoreCompileInputs.cache
+C:\myntraReflicabackend\OtpVerification\obj\Debug\net8.0\OtpVerification.sourcelink.json
+C:\myntraReflicabackend\OtpVerification\bin\Debug\net8.0\OtpVerification.deps.json
+C:\myntraReflicabackend\OtpVerification\bin\Debug\net8.0\OtpVerification.dll
+C:\myntraReflicabackend\OtpVerification\bin\Debug\net8.0\OtpVerification.pdb
+C:\myntraReflicabackend\OtpVerification\obj\Debug\net8.0\OtpVerification.dll
+C:\myntraReflicabackend\OtpVerification\obj\Debug\net8.0\refint\OtpVerification.dll
+C:\myntraReflicabackend\OtpVerification\obj\Debug\net8.0\OtpVerification.pdb
+C:\myntraReflicabackend\OtpVerification\obj\Debug\net8.0\ref\OtpVerification.dll

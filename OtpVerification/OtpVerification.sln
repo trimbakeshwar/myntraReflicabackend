@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34316.72
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OtpVerification", "OtpVerification.csproj", "{C21AAEFA-4309-4359-8244-2525E91F76DA}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyntraBacked", "..\MyntraBacked\MyntraBacked.csproj", "{511A5BE5-4821-4A61-8766-260EBAD807D2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C21AAEFA-4309-4359-8244-2525E91F76DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C21AAEFA-4309-4359-8244-2525E91F76DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C21AAEFA-4309-4359-8244-2525E91F76DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C21AAEFA-4309-4359-8244-2525E91F76DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{511A5BE5-4821-4A61-8766-260EBAD807D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{511A5BE5-4821-4A61-8766-260EBAD807D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{511A5BE5-4821-4A61-8766-260EBAD807D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{511A5BE5-4821-4A61-8766-260EBAD807D2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {938B43A2-D191-4933-B16E-73F1FDF84113}
+	EndGlobalSection
+EndGlobal

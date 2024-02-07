@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MyntraBacked")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f1b09158623604c05185b29b8823c0b0d4c4dfdb")]
 [assembly: System.Reflection.AssemblyProductAttribute("MyntraBacked")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MyntraBacked")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
